@@ -1,0 +1,13 @@
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\bin\Debug\SQLiteAsyncPicturesRetriever.exe.config
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\bin\Debug\SQLiteAsyncPicturesRetriever.exe
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\bin\Debug\SQLiteAsyncPicturesRetriever.pdb
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\obj\Debug\SQLiteAsyncPicturesRetriever.csprojResolveAssemblyReference.cache
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\obj\Debug\SQLiteAsyncPicturesRetriever.Properties.Resources.resources
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\obj\Debug\SQLiteAsyncPicturesRetriever.csproj.GenerateResource.Cache
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\obj\Debug\SQLiteAsyncPicturesRetriever.exe
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\obj\Debug\SQLiteAsyncPicturesRetriever.pdb
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\bin\Debug\urls.txt
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\obj\Debug\SQLiteAsyncPicturesRetriever.FileDownloader.resources
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\bin\Debug\PlaceHolder.jpg
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\bin\Debug\System.Data.SQLite.dll
+c:\users\vyacheslav\documents\visual studio 2012\Projects\SQLiteAsyncPicturesRetriever\SQLiteAsyncPicturesRetriever\bin\Debug\System.Data.SQLite.xml
